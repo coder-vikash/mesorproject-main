@@ -44,7 +44,7 @@
 //   });
 // };
 
-const User = require("../models/user");
+const User = require("../Models/user");
 
 // Render signup form
 module.exports.renderSignupForm = (req, res) => {
